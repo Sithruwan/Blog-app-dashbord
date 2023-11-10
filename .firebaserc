@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "social-app-108b8": {
+      "hosting": {
+        "blog-app-dashboard": [
+          "social-app-108b8"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "social-app-108b8"
+  }
+}
